@@ -1,0 +1,22 @@
+{
+  "name": "ih-node-sdk",
+  "version": "2.1.6",
+  "description": "It's Here SDK for communicating to the chain",
+  "main": "index.js",
+  "author": "Luke Garceau luke.garcea@pagarba.io",
+  "dependencies": {
+    "aes-js": "^3.1.2",
+    "axios": "^0.21.1",
+    "bip32": "^2.0.6",
+    "bip39": "^3.0.3",
+    "bitcoinjs-lib": "^5.2.0",
+    "es6-promise": "^4.2.8",
+    "isomorphic-fetch": "^3.0.0",
+    "js-crypto-aes": "^1.0.2",
+    "qrcode": "^1.4.4",
+    "secp256k1": "^4.0.2",
+    "sha256": "^0.2.0",
+    "twilio": "^3.60.0",
+    "utf8": "^3.0.0"
+  }
+}
